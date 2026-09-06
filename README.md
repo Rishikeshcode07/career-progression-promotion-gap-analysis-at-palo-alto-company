@@ -1,6 +1,8 @@
 # Career Progression and Promotion Gap Analysis for Retention Optimization
 ### A Career-Trajectory Intelligence Project for Palo Alto Networks | Unified Mentor Internship
 
+#### Streamlit Dashboard Link : https://career-progression-promotion-gap-analysis-at-palo-alto-company.streamlit.app/
+
 This repository contains an end-to-end HR analytics project that looks at employee
 attrition from a different angle than most standard approaches. Instead of asking
 "who is likely to leave," it asks "what structural career problems are pushing
