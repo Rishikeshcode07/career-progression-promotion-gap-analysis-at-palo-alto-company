@@ -2,6 +2,7 @@
 ### A Career-Trajectory Intelligence Project for Palo Alto Networks | Unified Mentor Internship
 
 #### Streamlit Dashboard Link : https://career-progression-promotion-gap-analysis-at-palo-alto-company.streamlit.app/
+#### Project Explanation Video Link : https://drive.google.com/file/d/1CQFWFLxnQDdt3RZypg_uvdmeFXTbMzka/view?usp=sharing
 
 This repository contains an end-to-end HR analytics project that looks at employee
 attrition from a different angle than most standard approaches. Instead of asking
